@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Eric Peña</title>
-    <link>//localhost:1313/tags/</link>
+    <link>./tags/</link>
     <description>Recent content in Tags on Eric Peña</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="./tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Statistics</title>
-      <link>//localhost:1313/tags/statistics/</link>
+      <link>./tags/statistics/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/statistics/</guid>
+      <guid>./tags/statistics/</guid>
       <description></description>
     </item>
     <item>
       <title>Mathematics</title>
-      <link>//localhost:1313/tags/mathematics/</link>
+      <link>./tags/mathematics/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/mathematics/</guid>
+      <guid>./tags/mathematics/</guid>
       <description></description>
     </item>
     <item>
       <title>Physics</title>
-      <link>//localhost:1313/tags/physics/</link>
+      <link>./tags/physics/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/physics/</guid>
+      <guid>./tags/physics/</guid>
       <description></description>
     </item>
     <item>
       <title>Modeling</title>
-      <link>//localhost:1313/tags/modeling/</link>
+      <link>./tags/modeling/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/modeling/</guid>
+      <guid>./tags/modeling/</guid>
       <description></description>
     </item>
     <item>
       <title>Probability</title>
-      <link>//localhost:1313/tags/probability/</link>
+      <link>./tags/probability/</link>
       <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/probability/</guid>
+      <guid>./tags/probability/</guid>
       <description></description>
     </item>
     <item>
       <title>Cellular Automata</title>
-      <link>//localhost:1313/tags/cellular-automata/</link>
+      <link>./tags/cellular-automata/</link>
       <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/cellular-automata/</guid>
+      <guid>./tags/cellular-automata/</guid>
       <description></description>
     </item>
     <item>
       <title>Complexity</title>
-      <link>//localhost:1313/tags/complexity/</link>
+      <link>./tags/complexity/</link>
       <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/complexity/</guid>
+      <guid>./tags/complexity/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>//localhost:1313/tags/programming/</link>
+      <link>./tags/programming/</link>
       <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/programming/</guid>
+      <guid>./tags/programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Science</title>
-      <link>//localhost:1313/tags/data-science/</link>
+      <link>./tags/data-science/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/data-science/</guid>
+      <guid>./tags/data-science/</guid>
       <description></description>
     </item>
     <item>
       <title>Bayesian</title>
-      <link>//localhost:1313/tags/bayesian/</link>
+      <link>./tags/bayesian/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/bayesian/</guid>
+      <guid>./tags/bayesian/</guid>
       <description></description>
     </item>
     <item>
       <title>Genetic Algorithm</title>
-      <link>//localhost:1313/tags/genetic-algorithm/</link>
+      <link>./tags/genetic-algorithm/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/genetic-algorithm/</guid>
+      <guid>./tags/genetic-algorithm/</guid>
       <description></description>
     </item>
     <item>
       <title>Optimization</title>
-      <link>//localhost:1313/tags/optimization/</link>
+      <link>./tags/optimization/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/optimization/</guid>
+      <guid>./tags/optimization/</guid>
       <description></description>
     </item>
     <item>
       <title>Julia</title>
-      <link>//localhost:1313/tags/julia/</link>
+      <link>./tags/julia/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/julia/</guid>
+      <guid>./tags/julia/</guid>
       <description></description>
     </item>
   </channel>
