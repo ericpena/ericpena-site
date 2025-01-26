@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Eric Peña</title>
+    <link>//localhost:1313/tags/test/</link>
+    <description>Recent content in Test on Eric Peña</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modified Coupon Collector&#39;s Problem</title>
+      <link>//localhost:1313/posts/mod-coupon/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/mod-coupon/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut accumsan sem, imperdiet malesuada erat. Nam condimentum eu turpis a suscipit. Nulla leo arcu, feugiat ac orci eget, imperdiet posuere dui. In laoreet rutrum nisi vitae pretium. Aliquam id fermentum diam, et hendrerit mi. Praesent eget tristique augue. Donec a malesuada nulla, sit amet bibendum libero. Cras id eleifend enim.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;You think you&amp;rsquo;ve got problems? What are you supposed to do if you are a manically depressed robot? No, don&amp;rsquo;t try to answer that. I&amp;rsquo;m fifty thousand times more intelligent than you and even I don&amp;rsquo;t know the answer. It gives me a headache just trying to think down to your level.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
